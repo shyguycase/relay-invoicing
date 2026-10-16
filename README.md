@@ -1,11 +1,12 @@
-Welcome to Relay!
-
-STEP 1: Run "Relay Setup 1.0.0.exe" to install the app.
-STEP 2: Open Relay from your Start Menu.
-STEP 3: For the AI to work, you have two options:
-   - Option A (Free & Private): Open LM Studio or Ollama on your PC and start a local server. Relay will find it automatically.
-   - Option B (Cloud): Click the "Settings" icon in Relay and paste your OpenAI or Anthropic API key.
-
-That's it. Paste your first client email into the app and watch it work.
-
-Need help? Reply to your purchase receipt email.
+You are leaving money on the table.
+Every freelancer has been there: a casual "sure, I can do that for $500" in a Slack message, buried in chat history, never invoiced, never paid.
+Relay fixes this.
+It is a smart invoicing assistant that:
+• Extracts agreements from emails and Slack messages using AI.
+• Tracks unbilled work in a beautiful, dark-mode dashboard.
+• Drafts polite follow-ups for overdue invoices in one click.
+• Generates professional invoices ready to send as PDFs.
+• Hybrid AI Engine: Defaults to your local machine for total privacy and zero cost, but seamlessly falls back to the cloud if your local server is off, so you never miss a beat.
+No complex CRM setups. No monthly subscriptions.
+Just paste a conversation, and Relay handles the rest.
+Perfect for: Freelance developers, designers, writers, consultants, and solo agencies.
